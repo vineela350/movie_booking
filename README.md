@@ -2,22 +2,6 @@
 
 # MovieTheater Application - SMC Movies
 
-## TEAM NAME - Team10
-
-| TEAM                     | SJSU ID   |
-| ------------------------ | --------- |
-| Sri Charan Reddy Mallu   | 017419779 |
-| Siva Swaroop Vardhineedi | 016835312 |
-| Mahek Virani             | 017446936 |
-
-## Team Members and Contribution gist:
-
-| TEAM                  | Contribution                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Siva Swaroop Vardhineedi | Scrum Master, Front end and Backend API implementation - Designed and configured MongoDB models, cinemaController logic, worked on cinema route module,worked on Admin Route for client logic, Designed and worked on Home, Register, Purchase front-end client webpages, developed Navbar, TheatreListByMovie, CinemaLists, DateSelector React Components, loadbalancer                                                                           
-|Sri Charan Reddy Mallu | Front end and Backend API implementation - authController & theaterController logic, worked on auth route & theater module, Developed Auth Context, Designed and worked on Tickets, Analytics, Login front-end client webpages, developed MovieLists, NowShowing, ShowtimeDetails, Showtimes React Components, AWS deployment and Autoscaling in EC2 instanceseveloped SelectedMovie, Seat configurations, ScheduleTable, Loading React Components |
-| Mahek Virani          | Front end and Backend API implementation - movieController logic, worked on movie route module, Developed Location Context, Designed and worked on Movie, Showtime, Cinema front-end client webpages, developed Theater, TheaterListsByCinema, UpcomingMovies React Components ,Configured showtime component for admin users, worked on showtime route module, Designed and worked on User front-end client webpages,Black box Testing            |
-
 ## Tech stack
 
 REACTJS, TAILWIND CSS, VITE, NODEJS, EXPRESSJS, PostgreSQL
