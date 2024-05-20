@@ -130,3 +130,4 @@ JWT_COOKIE_EXPIRE=30
 4. Run backend - `npm run dev`
    Run frontend - `npm run start`
 # movie_booking
+# movie_booking
